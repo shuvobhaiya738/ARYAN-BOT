@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
+<img src="http://g-v1.onrender.com/U1BBkzVfq.jpg" alt="banner">
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot - Bot Chat Messenger</h1>
 
 <p align="center">
